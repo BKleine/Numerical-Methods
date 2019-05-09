@@ -6,3 +6,10 @@ such as;
 - __Lu factorization__
 - __Simpsons method__
 - __False postion method__
+
+
+
+
+
+
+> Bryan Kleine
