@@ -1,9 +1,9 @@
 ## Numerical-Methods Mech 105
-*Spring 2019*
-#Numerical methods algorithms 
+_Spring 2019_
+Numerical methods algorithms 
 This conatins several numerical algorithms
 such as;
-*Lu factorization*
-*1/3 simpsons* 
+_Lu factorization_
+_1/3 simpsons_
  and 
- *false postion method*
+ _false postion method_
