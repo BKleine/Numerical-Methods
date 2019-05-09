@@ -5,4 +5,4 @@ This conatins several numerical algorithms
 such as;
 Lu factorization
 1/3 simpsons 
-false postion method
+ and false postion method
