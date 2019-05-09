@@ -3,7 +3,7 @@ _Spring 2019_
 Numerical methods algorithms 
 This conatins several numerical algorithms
 such as;
-_Lu factorization_
-_1/3 simpsons_
+1._Lu factorization_
+2._1/3 simpsons_
  and 
- _false postion method_
+ 3._false postion method_
