@@ -1,6 +1,6 @@
-## Numerical-Methods Mech 105
-_Spring 2019_
-Numerical methods algorithms 
+# Numerical-Methods Mech 105
+## _Spring 2019_
+### Numerical methods algorithms 
 This conatins several numerical algorithms
 such as;
 - __Lu factorization__
